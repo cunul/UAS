@@ -1,16 +1,20 @@
-# project_app
+# Projek UAS Pemrograman Mobile
 
-A new Flutter project.
+Cara menjalankan aplikasi
 
-## Getting Started
+- git clone
+- flutter pub get
+- flutter run
 
-This project is a starting point for a Flutter application.
+## Akun untuk login
 
-A few resources to get you started if this is your first Flutter project:
+- Username = atuny0
+  Password = 9uQFF1Lh
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Username = brickeardn
+  Password = bMQnPttV
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Username = yraigatt3
+  Password = sRQxjPfdS
+
+Atau bisa dengan akun lain di [Dummy Json](https://dummyjson.com/users/)
